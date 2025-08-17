@@ -1,11 +1,10 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #f2f2f2;">Hi 👋, I'm Nimi Sherpa</h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #f2f2f2;">A Data Science Enthusiast</h3>
+# Hi 👋, I'm Nimi Sherpa
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+### A Data Science Enthusiast
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nimisherpa3978&label=Profile%20views&color=0e75b6&style=flat" alt="nimisherpa3978" />
-</p>
+![coding](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nimisherpa3978&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently learning **Data Science with Python**
 - 🌱 I’m exploring **Machine Learning and Web Development**
@@ -15,86 +14,36 @@
 
 ---
 
-<h3 align="left" style="color: #f2f2f2;">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nimi-sherpa-1b78732b6" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimi-sherpa" height="30" width="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://discord.com/users/nimi20801001" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nimi20801001" height="30" width="40" style="transition: transform 0.3s ease;"/>
-  </a>
-</p>
+### Connect with me:
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/nimi-sherpa-1b78732b6)
+[![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.com/users/nimi20801001)
 
 ---
 
-<h3 align="left" style="color: #f2f2f2;">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="transition: transform 0.3s ease;"/>
-  </a>
-</p>
+### Languages and Tools:
+
+[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://www.cprogramming.com/)
+[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+[![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
+[![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
+[![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
+[![Django](https://cdn.worldvectorlogo.com/logos/django.svg)](https://www.djangoproject.com/)
+[![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com)
+[![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimisherpa3978&show_icons=true&locale=en&layout=compact" alt="nimisherpa3978" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nimisherpa3978&show_icons=true&locale=en&layout=compact)
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimisherpa3978&show_icons=true&locale=en" alt="nimisherpa3978" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimisherpa3978&show_icons=true&locale=en)
 
-<style>
-  body {
-    background: linear-gradient(135deg, #6e7e84, #2b3d47, #7e8181);
-    background-size: 400% 400%;
-    animation: gradientAnimation 10s ease infinite;
-    font-family: 'Arial', sans-serif;
-  }
+---
 
-  a img:hover {
-    transform: scale(1.1);
-  }
+> **Note**: The background and interactive elements (e.g., gradient effects, animations) can't be directly implemented in GitHub Readme due to platform restrictions. However, the above code leverages badges, language icons, and social links that provide a neat visual presentation of your profile.
 
-  @keyframes gradientAnimation {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
