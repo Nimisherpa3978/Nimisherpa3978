@@ -80,21 +80,3 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimisherpa3978&show_icons=true&locale=en" alt="nimisherpa3978" />
 </p>
 
-<style>
-  body {
-    background: linear-gradient(135deg, #6e7e84, #2b3d47, #7e8181);
-    background-size: 400% 400%;
-    animation: gradientAnimation 10s ease infinite;
-    font-family: 'Arial', sans-serif;
-  }
-
-  a img:hover {
-    transform: scale(1.1);
-  }
-
-  @keyframes gradientAnimation {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
