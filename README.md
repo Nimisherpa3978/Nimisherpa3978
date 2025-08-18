@@ -2,12 +2,10 @@
 <h3 align="center">A Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://20essentials.github.io/project-000-128/assets/n1.avif" alt="Background" width="100%" />
-</p>
 
-<p align="right">
   <img alt="Coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 </p>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nimisherpa3978&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
