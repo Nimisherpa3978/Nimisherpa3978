@@ -1,11 +1,15 @@
 <h1 align="center">
-  <svg width="90%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- ELECTRIC NEON HEADER -->
+  <svg width="90%" height="140" viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg">
     <defs>
+      <!-- Electric Gradient -->
       <linearGradient id="electricGradient" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#00ffff"/>
-        <stop offset="50%" stop-color="#7f00ff"/>
-        <stop offset="100%" stop-color="#00ffff"/>
+        <stop offset="0%" stop-color="#00ff00"/>
+        <stop offset="50%" stop-color="#9b30ff"/>
+        <stop offset="100%" stop-color="#00ff00"/>
       </linearGradient>
+
+      <!-- Glow Filter -->
       <filter id="glow">
         <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
         <feMerge>
@@ -14,10 +18,14 @@
         </feMerge>
       </filter>
     </defs>
-    <rect x="5" y="5" width="990" height="110" rx="25" ry="25" fill="none" stroke="url(#electricGradient)" stroke-width="5" filter="url(#glow)">
-      <animate attributeName="stroke-dasharray" from="10 20" to="40 10" dur="2s" repeatCount="indefinite"/>
+
+    <!-- Animated electric rectangle -->
+    <rect x="5" y="5" width="990" height="130" rx="25" ry="25" fill="none" stroke="url(#electricGradient)" stroke-width="6" filter="url(#glow)">
+      <animate attributeName="stroke-dasharray" from="15 20" to="40 10" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dashoffset" from="0" to="200" dur="2s" repeatCount="indefinite"/>
     </rect>
-    <foreignObject x="0" y="10" width="1000" height="100">
+
+    <foreignObject x="0" y="15" width="1000" height="110">
       <div xmlns="http://www.w3.org/1999/xhtml" align="center">
         <h1>Hi 👋, I'm Nimi Sherpa</h1>
         <h3>A Data Science Enthusiast</h3>
@@ -27,17 +35,22 @@
 </h1>
 
 <p align="center">
+  <!-- ELECTRIC NEON BORDER FOR GIF -->
   <svg width="340" height="240" viewBox="0 0 340 240" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="gifGradient">
-        <stop offset="0%" stop-color="#00ffea"/>
-        <stop offset="50%" stop-color="#ff00ff"/>
-        <stop offset="100%" stop-color="#00ffea"/>
+      <linearGradient id="gifGradient" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#00ff00"/>
+        <stop offset="50%" stop-color="#9b30ff"/>
+        <stop offset="100%" stop-color="#00ff00"/>
       </linearGradient>
     </defs>
-    <rect x="5" y="5" width="330" height="230" rx="20" ry="20" fill="none" stroke="url(#gifGradient)" stroke-width="4">
-      <animate attributeName="stroke-dashoffset" from="0" to="100" dur="2s" repeatCount="indefinite"/>
+
+    <!-- Electric animated rectangle -->
+    <rect x="5" y="5" width="330" height="230" rx="20" ry="20" fill="none" stroke="url(#gifGradient)" stroke-width="5">
+      <animate attributeName="stroke-dasharray" from="10 20" to="30 10" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dashoffset" from="0" to="150" dur="2s" repeatCount="indefinite"/>
     </rect>
+
     <image href="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" x="20" y="20" width="300" height="200" clip-path="inset(0 round 15px)" />
   </svg>
 </p>
@@ -99,4 +112,8 @@
 
 ---
 
+### 🔥 Streak Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimisherpa3978&theme=tokyonight" alt="GitHub Streak" />
+</p>
