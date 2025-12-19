@@ -99,8 +99,4 @@
 
 ---
 
-### 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimisherpa3978&theme=tokyonight" alt="GitHub Streak" />
-</p>
