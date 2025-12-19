@@ -1,11 +1,46 @@
-<h1 align="center">Hi 👋, I'm Nimi Sherpa</h1>
-<h3 align="center">A Data Science Enthusiast</h3>
+<h1 align="center">
+  <svg width="90%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="electricGradient" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="#00ffff"/>
+        <stop offset="50%" stop-color="#7f00ff"/>
+        <stop offset="100%" stop-color="#00ffff"/>
+      </linearGradient>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <rect x="5" y="5" width="990" height="110" rx="25" ry="25" fill="none" stroke="url(#electricGradient)" stroke-width="5" filter="url(#glow)">
+      <animate attributeName="stroke-dasharray" from="10 20" to="40 10" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <foreignObject x="0" y="10" width="1000" height="100">
+      <div xmlns="http://www.w3.org/1999/xhtml" align="center">
+        <h1>Hi 👋, I'm Nimi Sherpa</h1>
+        <h3>A Data Science Enthusiast</h3>
+      </div>
+    </foreignObject>
+  </svg>
+</h1>
 
 <p align="center">
-
-  <img alt="Coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+  <svg width="340" height="240" viewBox="0 0 340 240" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gifGradient">
+        <stop offset="0%" stop-color="#00ffea"/>
+        <stop offset="50%" stop-color="#ff00ff"/>
+        <stop offset="100%" stop-color="#00ffea"/>
+      </linearGradient>
+    </defs>
+    <rect x="5" y="5" width="330" height="230" rx="20" ry="20" fill="none" stroke="url(#gifGradient)" stroke-width="4">
+      <animate attributeName="stroke-dashoffset" from="0" to="100" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <image href="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" x="20" y="20" width="300" height="200" clip-path="inset(0 round 15px)" />
+  </svg>
 </p>
-
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nimisherpa3978&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
