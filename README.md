@@ -9,54 +9,7 @@
         <stop offset="100%" stop-color="#00ffff"/>
       </linearGradient>
 
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="8" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-
-      <radialGradient id="sparkle">
-        <stop offset="0%" stop-color="#ffffff"/>
-        <stop offset="100%" stop-color="transparent"/>
-      </radialGradient>
-    </defs>
-
-    <rect x="10" y="10" width="980" height="160" rx="30"
-      fill="none"
-      stroke="url(#electricGradient)"
-      stroke-width="5"
-      filter="url(#glow)">
-      <animate attributeName="stroke-dasharray"
-        from="20 40"
-        to="60 20"
-        dur="2s"
-        repeatCount="indefinite"/>
-    </rect>
-
-    <!-- Sparkles -->
-    <circle cx="150" cy="60" r="6" fill="url(#sparkle)">
-      <animate attributeName="cy" from="180" to="0" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" from="1" to="0" dur="4s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="500" cy="120" r="5" fill="url(#sparkle)">
-      <animate attributeName="cy" from="180" to="0" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" from="1" to="0" dur="3s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="850" cy="80" r="4" fill="url(#sparkle)">
-      <animate attributeName="cy" from="180" to="0" dur="5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" from="1" to="0" dur="5s" repeatCount="indefinite"/>
-    </circle>
-
-    <foreignObject x="0" y="45" width="1000" height="100">
-      <div xmlns="http://www.w3.org/1999/xhtml" align="center">
-        <h1 style="margin:0;">Hi 👋, I'm Nimi Sherpa</h1>
-        <h3 style="margin:0;">A Data Science Enthusiast</h3>
-      </div>
-    </foreignObject>
+     
   </svg>
 </h1>
 
@@ -130,5 +83,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimisherpa3978&theme=tokyonight"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nimisherpa3978&theme=tokyo-night"
+    alt="GitHub Activity Graph"
+  />
 </p>
+
