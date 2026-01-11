@@ -31,7 +31,7 @@
 - 🌱 I’m exploring **Machine Learning and Web Development**
 - 👯 I’m looking to collaborate on **open-source and data projects**
 - 💬 Ask me about **Python, C++, HTML/CSS, JavaScript**
-- ⚡ Fun fact: **I am funny! 😄**
+- ⚡ Fun fact: **You may find me funny! 😄**
 
 ---
 
