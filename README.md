@@ -1,8 +1,12 @@
 <!-- ================== HEADER ================== -->
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=footer&text=NS&fontSize=60&fontColor=00FFFF&animation=blinking" alt="NS Logo" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00FFFF,100:7F00FF&height=120&section=header&text=Nimi%20Sherpa&fontSize=45&fontAlignY=38&desc=Future%20Data%20Scientist%20🚀&descAlignY=60&descSize=18&fontColor=ffffff&animation=fadeIn" alt="Name Banner" />
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00FFFF,100:7F00FF&height=300&section=header&text=Nimi%20Sherpa&fontSize=60&fontAlignY=50&fontColor=00ffff&animation=fadeIn&glow=true&glowColor=00ffff"
+    alt="Nimi Sherpa - Neon Glow Banner"
+  />
 </p>
+
+<hr style="border: 1.5px solid #00ffff; width: 60%; margin: 30px auto;" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=30&center=true&vCenter=true&width=750&lines=📊+Aspiring+Data+Scientist;🤖+Machine+Learning+Explorer;💻+Web+Developer+Explorer;🌸+Creative+Coder" />
