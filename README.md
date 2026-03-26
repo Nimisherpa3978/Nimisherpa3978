@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nimi Sherpa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=30&center=true&vCenter=true&width=750&lines=🎓+IT+Student;📊+Aspiring+Data+Scientist;🤖+Machine+Learning+Explorer;💻+Web+Developer;🌸+Creative+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=30&center=true&vCenter=true&width=750&lines=📊+Aspiring+Data+Scientist;🤖+Machine+Learning+Explorer;💻+Web+Developer+Explorer;🌸+Creative+Coder" />
 </p>
 
 ---
@@ -27,10 +27,8 @@
 ## 🌸 About Me
 
 - 🔭 Currently learning **Data Science with Python**
-- 🌱 Exploring **Machine Learning & Web Development**
+- 🌱 Exploring **Machine Learning , Web Development , Agentic AI & LLMs**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, C++, JavaScript**
-- ⚡ Fun fact: *I turn coffee ☕ into code*
 
 ---
 
