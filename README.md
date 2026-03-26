@@ -1,9 +1,6 @@
 <!-- ================== HEADER ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=220&section=header&text=NS&fontSize=90&fontColor=00FFFF&animation=blinking"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00FFFF,100:7F00FF&height=280&section=header&text=Nimi%20Sherpa&fontSize=55&fontAlignY=38&desc=Future%20Data%20Scientist%20🚀&descAlignY=60&descSize=20&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00FFFF,100:7F00FF&height=250&section=header&text=Nimi%20Sherpa&fontSize=45&fontAlignY=35&desc=Future%20Data%20Scientist%20🚀&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn&icon=https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=60&section=footer&text=NS&fontSize=50&fontColor=00FFFF&animation=blinking" />
 </p>
 
 <p align="center">
