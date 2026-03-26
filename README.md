@@ -1,6 +1,10 @@
 <!-- ================== HEADER ================== -->
-
-<h1 align="center">Hi 👋, I'm Nimi Sherpa</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=220&section=header&text=NS&fontSize=90&fontColor=00FFFF&animation=blinking"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00FFFF,100:7F00FF&height=280&section=header&text=Nimi%20Sherpa&fontSize=55&fontAlignY=38&desc=Future%20Data%20Scientist%20🚀&descAlignY=60&descSize=20&animation=fadeIn&fontColor=ffffff" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=30&center=true&vCenter=true&width=750&lines=📊+Aspiring+Data+Scientist;🤖+Machine+Learning+Explorer;💻+Web+Developer+Explorer;🌸+Creative+Coder" />
@@ -25,13 +29,17 @@
 ---
 
 ## 🌸 About Me
-
-- 🔭 Currently learning **Data Science with Python**
 - 🌱 Exploring **Machine Learning , Web Development , Agentic AI & LLMs**
-- 👯 Looking to collaborate on **Open Source Projects**
+- 
+## 🎯 Current Focus
 
+- 📊 Learning Data Science, LLMs & Agentic AI.  
+- 🧠 Improving problem-solving skills  
+- 🚀 Building real-world projects  
 ---
+## 🌐 Portfolio
 
+🚀 Coming Soon... (or add your website link)
 ## 🌐 Connect With Me
 
 <p align="center">
