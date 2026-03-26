@@ -1,6 +1,7 @@
 <!-- ================== HEADER ================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00FFFF,100:7F00FF&height=250&section=header&text=Nimi%20Sherpa&fontSize=45&fontAlignY=35&desc=Future%20Data%20Scientist%20🚀&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn&icon=https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=60&section=footer&text=NS&fontSize=50&fontColor=00FFFF&animation=blinking" />
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=footer&text=NS&fontSize=60&fontColor=00FFFF&animation=blinking" alt="NS Logo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00FFFF,100:7F00FF&height=120&section=header&text=Nimi%20Sherpa&fontSize=45&fontAlignY=38&desc=Future%20Data%20Scientist%20🚀&descAlignY=60&descSize=18&fontColor=ffffff&animation=fadeIn" alt="Name Banner" />
 </p>
 
 <p align="center">
