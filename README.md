@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nimi Sherpa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=30&center=true&vCenter=true&width=700&lines=🎓+IT+Student;📊+Aspiring+Data+Scientist&🚀+Data+Science+Learner;🤖+Machine+Learning+Explorer;💻+Web+Developer+Explorer;🌸+Creative+Coder;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=30&center=true&vCenter=true&width=750&lines=🎓+IT+Student;📊+Aspiring+Data+Scientist;🤖+Machine+Learning+Explorer;💻+Web+Developer;🌸+Creative+Coder" />
 </p>
 
 ---
