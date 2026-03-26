@@ -1,69 +1,56 @@
-<!-- ================== ANIMATED SPARKLING HEADER ================== -->
+<!-- ================== HEADER ================== -->
 
-<h1 align="center">
-  <svg width="100%" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="electricGradient" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#00ffff"/>
-        <stop offset="50%" stop-color="#7f00ff"/>
-        <stop offset="100%" stop-color="#00ffff"/>
-      </linearGradient>
-
-     
-  </svg>
-</h1>
-
-<!-- ================== PROFILE GIF ================== -->
+<h1 align="center">Hi 👋, I'm Nimi Sherpa</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nimisherpa3978&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=30&center=true&vCenter=true&width=700&lines=🚀+Data+Science+Learner;💻+Full+Stack+Developer;🤖+Machine+Learning+Explorer;🌸+Creative+Coder" />
 </p>
 
 ---
 
-## 🚀 About Me
+<!-- ================== BANNER ================== -->
 
-- 🔭 I’m currently learning **Data Science with Python**
-- 🌱 I’m exploring **Machine Learning and Web Development**
-- 👯 I’m looking to collaborate on **open-source and data projects**
-- 💬 Ask me about **Python, C++, HTML/CSS, JavaScript**
-- ⚡ Fun fact: **You may find me funny! 😄**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=ffffff"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
+<!-- ================== CODER GIRL GIF ================== -->
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nimi-sherpa-1b78732b6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300"/>
+</p>
+
+---
+
+## 🌸 About Me
+
+- 🔭 Currently learning **Data Science with Python**
+- 🌱 Exploring **Machine Learning & Web Development**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Python, C++, JavaScript**
+- ⚡ Fun fact: *I turn coffee ☕ into code*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nimi-sherpa-1b78732b6">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="https://discord.com/users/nimi20801001" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&style=for-the-badge"/>
+  <a href="https://discord.com/users/nimi20801001">
+    <img src="https://img.shields.io/badge/Discord-7F00FF?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## ⚙️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,react,nodejs,django,mysql,git,figma,android&theme=dark" />
 </p>
 
 ---
@@ -71,8 +58,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimisherpa3978&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nimisherpa3978&show_icons=true&theme=tokyonight&border_radius=15"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=nimisherpa3978&theme=tokyonight&border_radius=15"/>
 </p>
+
+---
+
+## 🧠 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimisherpa3978&layout=compact&theme=tokyonight"/>
@@ -80,12 +73,36 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nimisherpa3978&theme=tokyo-night"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimisherpa3978&theme=tokyo-night"/>
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💡 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ================== FOOTER ================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7F00FF&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  ✨ <b>Code. Create. Innovate. Repeat.</b> ✨
+</p>
