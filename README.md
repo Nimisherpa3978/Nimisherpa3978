@@ -49,6 +49,12 @@
 - 🚀 Creating scalable and production-ready projects  
 
 ---
+## 🎯 Open To
+
+- Data Science Internships
+- Data Analysts Internships
+- ML Engineer Roles
+- Remote Opportunities
 
 ## 🌐 Portfolio
 
