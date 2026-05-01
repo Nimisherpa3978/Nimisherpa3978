@@ -95,3 +95,16 @@
 <p align="center" style="font-size: 18px; font-weight: 600; color: #00FFFF; margin-bottom: 50px;">
   ✨ <b>Code. Create. Innovate. Repeat.</b> ✨
 </p>
+---
+
+## 🟩 Contribution Streak & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimisherpa3978&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00FFFF/nimisherpa3978" alt="GitHub Contribution Chart"/>
+</p>
+
+---
