@@ -1,19 +1,25 @@
-<!-- ================== HEADER ================== -->
 
-<p align="center" style="margin-top: 40px;">
-  <!-- Glowing waving name banner -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00FFFF,100:7F00FF&height=280&section=header&text=Nimi%20Sherpa&fontSize=58&fontAlignY=40&fontColor=00FFFF&animation=fadeIn&glow=true&glowColor=00FFFF" 
-    alt="Nimi Sherpa Header Banner"
-  />
-</p>
-<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 22px; color: #00FFFF; margin: 20px 0;">
-  🤖 &nbsp; <strong>Data Science Enthusiast | Machine Learning Explorer | Web Developer</strong>
-</p>
+<div align="center">
+
+# 🚀 NIMI SHERPA
+### Data Science Enthusiast • Machine Learning Explorer • Web Developer
+</div>
+
+---
+
+
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" alt="Coder Girl Animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=700&lines=>>system+status:+ONLINE+🟢" />
+
+</div>
+
+---
 
 
 
@@ -70,13 +76,11 @@
 
 ---
 
-## 🔥 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimisherpa3978&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimisherpa3978&bg_color=0d1117&color=00ffff&line=7f00ff&point=00ffff&area=true&hide_border=true" />
 </p>
 
----
+
 
 ## 💡 Daily Dev Quote
 
