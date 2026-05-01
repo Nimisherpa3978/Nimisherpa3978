@@ -7,30 +7,15 @@
     alt="Nimi Sherpa Header Banner"
   />
 </p>
-
-<hr style="width: 50%; border: 1.5px solid #00FFFF; margin: 30px auto;" />
-
 <p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 22px; color: #00FFFF; margin: 20px 0;">
   🤖 &nbsp; <strong>Data Science Enthusiast | Machine Learning Explorer | Web Developer</strong>
 </p>
-
-<hr style="width: 50%; border: 1px solid #00FFFF; margin: 30px auto;" />
-
-<p align="center" style="margin-bottom: 40px;">
-  <!-- Welcome banner -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,100:00FFFF&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=32&fontAlignY=45&fontColor=ffffff&animation=fadeIn" 
-    alt="Welcome Banner"
-  />
-</p>
-
-<!-- ================== PROFILE GIF ================== -->
-
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" alt="Coder Girl Animation"/>
 </p>
 
----
+
+
 
 ## 🌸 About Me
 
