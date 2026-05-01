@@ -68,14 +68,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimisherpa3978&show_icons=true&theme=tokyonight&border_radius=15" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=nimisherpa3978&theme=tokyonight&border_radius=15" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## 🔥 Contribution Graph
